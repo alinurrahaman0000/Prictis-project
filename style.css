@@ -1,0 +1,74 @@
+body {
+  margin: 0;
+}
+
+section {
+  display: flex;
+  padding: 31px;
+}
+span {
+  color: orange;
+}
+.aaaaa {
+  width: 50%;
+  margin-top: 55px;
+}
+.aaaaa img {
+  width: 80%;
+}
+a {
+  text-decoration: none;
+  padding: 10px;
+  color: aqua;
+  background-color: black;
+  border-radius: 11px;
+}
+.bannar {
+  background-image: url(developer-portfolio/top-banner.png);
+  background-repeat: no-repeat;
+  position: relative;
+}
+.secend-bannar {
+  background-image: url(developer-portfolio/dream-bg.png);
+  background-repeat: no-repeat;
+  background-position: right;
+}
+
+.aaaaaa {
+  width: 50%;
+  margin-top: 55px;
+  margin-left: 150px;
+}
+.Full {
+  width: 60%;
+  box-shadow: 3px 3px rgb(174, 0, 255), -1em 0 0.4em rgb(3, 87, 83);
+  padding: 31px;
+  border-radius: 22px;
+}
+.developer {
+  width: 60%;
+  box-shadow: 3px 3px rgb(18, 238, 190), -1em 0 0.4em rgb(247, 223, 12);
+  padding: 31px;
+  border-radius: 22px;
+}
+.aa h1 {
+  text-align: center;
+}
+footer p {
+  background-color: whitesmoke;
+  padding: 11px;
+  font-size: medium;
+  color: black;
+  text-align: center;
+  font-weight: bold;
+}
+.Expriencs {
+  background-image: url(developer-portfolio/exp-bg.png);
+  background-repeat: no-repeat;
+}
+.developer h3 {
+  color: orange;
+}
+.Full h3 {
+  color: orange;
+}
